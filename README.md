@@ -14,13 +14,11 @@ Example input and output from the Client:
 
 Enter Command:
 
-Input:
+Input: 1
 
-1
-
-Output: 
-
-2 1 Veggie Supreme $12.99 
+Output: 2 1 Veggie Supreme $12.99 
   2 Meat Lovers $13.99
   3 Volcano Hawaiaan $14.99
+  
+menuTest.py, menuItemTest.py, and orderTest.py are Unit Tests that checks if each of the helper classes are implemented correctly.
 
