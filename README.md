@@ -13,8 +13,10 @@ In order to make an order on the client start the command with 3 then type the n
 Example input and output from the Client:
 
 Enter Command:
+
 Input: 1
-Output: 2 1 Veggie Supreme $12.99
+
+Output: 2 1 Veggie Supreme $12.99 \n
           2 Meat Lovers $13.99
           3 Volcano Hawaiaan $14.99
 
